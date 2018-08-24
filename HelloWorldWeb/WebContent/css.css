@@ -1,0 +1,62 @@
+@charset "UTF-8";
+body {
+	background-color: black;
+	color: white;
+	text-align: center;
+	margin-bottom: 10em;
+}
+div#hello{
+	width: 50%;
+	margin: auto;
+	margin-top: 7%;
+	font-size: 3em;
+}
+div#result{
+	width: 50%;
+	margin: auto;
+	margin-top: 7%;
+	font-size: 3em;
+	font-family: monospace;
+	color: lime;
+}
+div#result2{
+	font-size: 2em;
+	width: 70%;
+	margin: auto;
+	margin-top: 7%;
+	margin-bottom: -1.5em;
+	font-family: monospace;
+	text-align: left;
+	font-style: oblique;
+	color: yellow;
+}
+div#result3{
+	width: 70%;
+	margin: auto;
+	margin-top: 4%;
+	font-size: 1.5em;
+	font-family: monospace;
+	text-align: left;
+}
+p#propertyItem{
+	line-height: 1;
+	margin-top: 1.5em;
+	margin-bottom: 1.5em;
+}
+ /* unvisited link */
+a:link {
+    color: green;
+}
+/* visited link */
+a:visited {
+    color: green;
+}
+/* mouse over link */
+a:hover {
+    color: lime;
+}
+
+/* selected link */
+a:active {
+    color: yellow;
+}

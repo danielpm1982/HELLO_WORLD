@@ -1,1 +1,2 @@
-# HELLO_WORLD
+This is a template repository with minimum functional examples.
+Configured at Eclipse Photon, for JAVA JDK 10, MySQLConnectorJ 8, Hibernate 5.3 and Maven, with project facets, POMs and xml headers compatible and updated. For other Maven Java 10 updated templates with SpringCore, SpringMVC, Spring AOP, Spring Security and Spring RESTful Webservices, see https://github.com/danielpm1982/MAVEN repository. Other than these two, other repositories might not have been updated yet to Java 10, only for Java 8.
