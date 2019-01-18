@@ -1,2 +1,3 @@
-This Repository includes minimum functional examples for JAVA SE Console and JAVA EE Web (servlet/jsp) Projects with JPA framework.
-Configured at Eclipse Photon, for JAVA JDK 10, MySQLConnectorJ 8, Hibernate 5.3 and Maven, with project facets, POMs and xml headers compatible and updated. For other Maven Java 10 updated templates with SpringCore, SpringMVC, Spring AOP, Spring Security, Spring RESTful Webservices and SpringBoot, see https://github.com/danielpm1982/MAVEN repository. JAVA10+ compatible.
+This Repository includes minimum functional examples for JAVA SE Console and JAVA EE Web (servlet/jsp) Projects, some with MAVEN and JPA.
+Configured at Eclipse Photon, for JAVA JDK 10, MySQLConnectorJ 8, Hibernate 5.3 and Maven, with project facets, POMs and xml headers compatible and updated. 
+For other examples with MAVEN and for examples with Spring (SpringCore, SpringMVC, Spring AOP, Spring Security, Spring RESTful Webservices and SpringBoot), see these other two repositories: https://github.com/danielpm1982/SPRING and https://github.com/danielpm1982/MAVEN. JAVA10+ compatible.
