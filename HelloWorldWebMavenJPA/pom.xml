@@ -18,7 +18,7 @@
    	<spring-security.version>5.0.7.RELEASE</spring-security.version>
    	<aspectJWeaver.version>1.9.1</aspectJWeaver.version>
    	<mysql.version>8.0.11</mysql.version>
-   	<hibernate.version>5.3.3.Final</hibernate.version>
+   	<hibernate.version>5.4.24.Final</hibernate.version>
    	<hibernate.validator>6.0.11.Final</hibernate.validator>
    	<c3p0.version>0.9.5.2</c3p0.version>
    	<maven-war-plugin.version>3.2.2</maven-war-plugin.version>
